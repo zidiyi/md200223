@@ -47,10 +47,7 @@
 <p><a href="https://gitlab.com/cryonwn/hgkgh/-/raw/main/hr18.MP4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 大難中誰能得救？穿越古今的神話  -009fcc?logoWidth=1" title="视频: 大難中誰能得救？穿越古今的神話 "></a></p>  
 <p><a href="https://gitlab.com/david3k/fdfb/-/raw/main/ft19.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 你知道為何要退出黨，團，隊組織？   -009fcc?logoWidth=1" title="视频: 你知道為何要退出黨，團，隊組織？ "></a></p>     
 <p><a href="https://gitlab.com/holey4/nffx/-/raw/main/fy20.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 追查國際主席汪志遠：四億三退 -009fcc?logoWidth=1" title="视频: 追查國際主席汪志遠：四億三退"></a></p> 
-.
-<img src="/anh/haha.jpg"><br>
-  
-<p><a href="http://bigsuns.info " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/我们郑重的送你一份保平安的礼物-yellow?logoWidth=1" title="我们郑重的送你一份保平安的礼物" alt="我们郑重的送你一份保平安的礼物"></a></p>  
+. 
 
 
 <img src="/anh/haha.jpg"><br>
